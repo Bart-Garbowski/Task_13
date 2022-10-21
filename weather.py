@@ -7,7 +7,7 @@ import json
 from io import StringIO
 import csv
 
-# klucz API do testøw: 5bdec38a34mshd195ccd27fc722ap15bd53jsn2d4f730bb1e3
+# klucz API do testøw: klucz wyslany oddzielnie
 # Chester
 
 api = sys.argv[1]
